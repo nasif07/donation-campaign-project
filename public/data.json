@@ -1,0 +1,139 @@
+{
+    "donations": [
+      {
+        "id": "1",
+        "picture": "https://i.ibb.co/BsV7kb9/project-92448-save-20000-lives-in-drought-stricken-kenya-with-water-MATW-Water-Artesian-Well-2021-La.jpg",
+        "title": "Clean Water for All",
+        "category": "Water",
+        "category_bg_color": "#3498db",
+        "card_bg_color": "#0052FF26",
+        "text_color": "#0052FF",
+        "description": "Help provide clean and safe drinking water to communities in need.",
+        "price": "$25"
+      },
+      {
+        "id": "5",
+        "picture": "https://i.ibb.co/TTvN76V/Education.png",
+        "title": "Education for Underprivileged Children",
+        "category": "Education",
+        "category_bg_color": "#9b59b6",
+        "card_bg_color": "#79C23F26",
+        "text_color": "#79C23F",
+        "description": "Ensure access to quality education for children in marginalized communities.",
+        "price": "$35"
+      },
+      {
+        "id": "2",
+        "picture": "https://i.ibb.co/BsV7kb9/project-92448-save-20000-lives-in-drought-stricken-kenya-with-water-MATW-Water-Artesian-Well-2021-La.jpg",
+        "title": "Safe Drinking Water Initiative",
+        "category": "Water",
+        "category_bg_color": "#3498db",
+        "card_bg_color": "#0052FF26",
+        "text_color": "#0052FF",
+        "description": "Support the initiative to ensure access to safe drinking water worldwide.",
+        "price": "$20"
+      },
+      {
+        "id": "7",
+        "picture": "https://i.ibb.co/f8LLph1/UN0579998-donate-banner.jpg",
+        "title": "Shelter for the Homeless",
+        "category": "Shelter",
+        "category_bg_color": "#ff7373",
+        "card_bg_color": "#FF444A26",
+        "text_color": "#FF444A",
+        "description": "Provide safe and warm shelters for homeless individuals and families.",
+        "price": "$30"
+      },
+      {
+        "id": "3",
+        "picture": "https://i.ibb.co/pfjzhxL/Food.png",
+        "title": "Feeding the Hungry",
+        "category": "Food",
+        "category_bg_color": "#ffb6c1",
+        "card_bg_color": "#ffc3a0",
+        "text_color": "#e67e22",
+        "description": "Support efforts to combat hunger and food insecurity around the world.",
+        "price": "$30"
+      },
+      {
+        "id": "4",
+        "picture": "https://i.ibb.co/pfjzhxL/Food.png",
+        "title": "Nutrition for Children",
+        "category": "Food",
+        "category_bg_color": "#ffb6c1",
+        "card_bg_color": "#ffc3a0",
+        "text_color": "#e67e22",
+        "description": "Provide proper nutrition to underprivileged children in need.",
+        "price": "$40"
+      },
+      
+      {
+        "id": "6",
+        "picture": "https://i.ibb.co/TTvN76V/Education.png",
+        "title": "Supporting Schools",
+        "category": "Education",
+        "category_bg_color": "#9b59b6",
+        "card_bg_color": "#79C23F26",
+        "text_color": "#79C23F",
+        "description": "Support schools and educational programs for a brighter future.",
+        "price": "$50"
+      },
+      
+      {
+        "id": "8",
+        "picture": "https://i.ibb.co/f8LLph1/UN0579998-donate-banner.jpg",
+        "title": "Emergency Housing",
+        "category": "Shelter",
+        "category_bg_color": "#ff7373",
+        "card_bg_color": "#FF444A26",
+        "text_color": "#FF444A",
+        "description": "Support emergency housing solutions for those in crisis.",
+        "price": "$25"
+      },
+      {
+        "id": "9",
+        "picture": "https://i.ibb.co/BsV7kb9/project-92448-save-20000-lives-in-drought-stricken-kenya-with-water-MATW-Water-Artesian-Well-2021-La.jpg",
+        "title": "Clean Water for Communities",
+        "category": "Water",
+        "category_bg_color": "#3498db",
+        "card_bg_color": "#0052FF26",
+        "text_color": "#0052FF",
+        "description": "Provide clean and safe drinking water to underserved communities.",
+        "price": "$40"
+      },
+      {
+        "id": "10",
+        "picture": "https://i.ibb.co/pfjzhxL/Food.png",
+        "title": "Food for Families",
+        "category": "Food",
+        "category_bg_color": "#ffb6c1",
+        "card_bg_color": "#ffc3a0",
+        "text_color": "#e67e22",
+        "description": "Help families access nutritious food to overcome hunger.",
+        "price": "$30"
+      },
+      {
+        "id": "11",
+        "picture": "https://i.ibb.co/TTvN76V/Education.png",
+        "title": "Quality Education Initiative",
+        "category": "Education",
+        "category_bg_color": "#9b59b6",
+        "card_bg_color": "#79C23F26",
+        "text_color": "#79C23F",
+        "description": "Support initiatives that improve the quality of education for children.",
+        "price": "$45"
+      },
+      {
+        "id": "12",
+        "picture": "https://i.ibb.co/f8LLph1/UN0579998-donate-banner.jpg",
+        "title": "Housing Assistance",
+        "category": "Shelter",
+        "category_bg_color": "#ff7373",
+        "card_bg_color": "#FF444A26",
+        "text_color": "#FF444A",
+        "description": "Provide housing assistance to individuals and families in need.",
+        "price": "$35"
+      }
+    ]
+  }
+  

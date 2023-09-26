@@ -12,7 +12,7 @@
         "price": "$25"
       },
       {
-        "id": "5",
+        "id": "2",
         "picture": "https://i.ibb.co/TTvN76V/Education.png",
         "title": "Education for Underprivileged Children",
         "category": "Education",
@@ -23,7 +23,7 @@
         "price": "$35"
       },
       {
-        "id": "2",
+        "id": "3",
         "picture": "https://i.ibb.co/BsV7kb9/project-92448-save-20000-lives-in-drought-stricken-kenya-with-water-MATW-Water-Artesian-Well-2021-La.jpg",
         "title": "Safe Drinking Water Initiative",
         "category": "Water",
@@ -34,7 +34,7 @@
         "price": "$20"
       },
       {
-        "id": "7",
+        "id": "4",
         "picture": "https://i.ibb.co/f8LLph1/UN0579998-donate-banner.jpg",
         "title": "Shelter for the Homeless",
         "category": "Shelter",
@@ -45,7 +45,7 @@
         "price": "$30"
       },
       {
-        "id": "3",
+        "id": "5",
         "picture": "https://i.ibb.co/pfjzhxL/Food.png",
         "title": "Feeding the Hungry",
         "category": "Food",
@@ -56,7 +56,7 @@
         "price": "$30"
       },
       {
-        "id": "4",
+        "id": "6",
         "picture": "https://i.ibb.co/pfjzhxL/Food.png",
         "title": "Nutrition for Children",
         "category": "Food",
@@ -68,7 +68,7 @@
       },
       
       {
-        "id": "6",
+        "id": "7",
         "picture": "https://i.ibb.co/TTvN76V/Education.png",
         "title": "Supporting Schools",
         "category": "Education",

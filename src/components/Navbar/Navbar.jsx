@@ -7,7 +7,7 @@ const Navbar = () => {
         <>
             <div className="md:flex items-center justify-between max-w-[1500px] mx-auto p-10">
                 <img src={logo} alt="" />
-                <ul className="flex gap-6 text-[#0B0B0B] text-xl">
+                <ul className="flex gap-6 text-[#0B0B0B] text-xl font-medium">
                     <NavLink
                         to="/"
                         className={({ isActive, isPending }) =>

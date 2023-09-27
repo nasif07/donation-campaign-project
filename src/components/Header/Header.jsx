@@ -2,7 +2,7 @@
 const Header = () => {
     return (
         <div style={{
-            backgroundImage: `url("./../../../public/cover.jpg")`
+            backgroundImage: `url("/cover.jpg")`
         }} className="bg-cover">
             <div style={{backgroundColor: "rgba(255, 255, 255, 0.95)"}} className="h-[70vh] mx-auto">
             <h1 className="text-[#0B0B0B] text-center text-2xl md:text-5xl font-medium md:font-bold pt-40 overlay">I Grow By Helping People In Need</h1>
